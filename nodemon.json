@@ -1,0 +1,12 @@
+{
+  "verbose": true,
+  "ignore": [
+    "logs",
+    "node_modules",
+    "app/assets",
+    "db/migrations",
+    "app/schema/schema.graphql",
+    "app/views/*.ejs"
+  ],
+  "watch": ["app", "db", "lib", "jobs", "tests"]
+}

@@ -1,0 +1,8 @@
+{
+  "schemaPath": "./app/schema/schema.json",
+  "extensions": {
+    "endpoints": {
+      "dev": "http://localhost:3001/api"
+    }
+  }
+}

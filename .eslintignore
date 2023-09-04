@@ -1,0 +1,9 @@
+views/*
+app/assets/js/amplitude.js
+app/assets/js/amplitude.min.js
+app/assets/js/new-age.js
+app/assets/js/new-age.min.js
+db/seeders/*
+app/assets/gulpfile.js
+app/assets/vendor/*
+app/assets/jsx/*.bundle.jsv14.19.0
